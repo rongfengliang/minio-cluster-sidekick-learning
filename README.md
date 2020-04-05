@@ -1,0 +1,2 @@
+# minio + sidekick + gateway learning
+
